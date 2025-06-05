@@ -20,3 +20,10 @@ Utilize o compilador `gcc` (ou qualquer outro compilador C) para compilar os arq
 ```bash
 gcc desafio1.c -o desafio1
 ./desafio1
+
+gcc desafio2.c -o desafio2
+./desafio2
+
+gcc desafio3.c -o desafio3
+./desafio3
+
